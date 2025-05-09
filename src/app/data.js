@@ -62,7 +62,7 @@ export const projectsData = [
     name: "HustleShala",
     description: "It all started when I had this idea and teamed up with three other teens I met online—we were just four online friends trying to build something meaningful. That’s how Hustle Shala was born. We organized free career counselling workshops, ran skill-based competitions, and even created challenges where students had to team up and make real money by completing specific tasks within a set time. It was messy, exciting, and insanely hectic—late nights, 1000s of creatives, reels, PDFs, and back-to-back events, all managed by us. No mentors, no funding—just pure hustle. It was my first real experience leading a team and running actual operations. Even though we shut it down with minimal profit, the lessons it gave me in execution, teamwork, and leadership were priceless.",
     date: "2022-10-01",
-    demoLink: "https://drive.google.com/drive/folders/1AbiFkuZ_6M_YOdES8RRj3sB1K5dwwV_per.example.com",
+    demoLink: "https://drive.google.com/drive/folders/1AbiFkuZ_6M_YOdES8RRj3sB1K5dwwV_p",
     logo: "/logos/hs.jpeg"
   },
   {
