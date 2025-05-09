@@ -15,7 +15,7 @@ const AboutDetails = () => {
             My journey in entrepreneurship
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          In October 2023, I dove into affiliate marketing, which unexpectedly sparked my interest in sales, communication, and human psychology. To generate leads, I picked up video editing and content creation, which later led me into freelancing. I then co-founded a startup with three other teens, gaining hands-on experience in operations, sales, and problem-solving—despite eventually shutting it down with minimal profit. Along the way, I participated in competitions, winning awards in marketing and product management. This journey has given me practical exposure in content creation, client communication, teamwork, and entrepreneurship, while showing me there's still much more to learn, especially in finance and organization.
+          In October 2023, I dive into affiliate marketing, which unexpectedly sparked my interest in sales, communication, and human psychology. To generate leads, I picked up video editing and content creation, which later led me into freelancing. I then co-founded a startup with three other teens, gaining hands-on experience in operations, sales, and problem-solving—despite eventually shutting it down with minimal profit. Along the way, I participated in competitions, winning awards in marketing and product management. This journey has given me practical exposure in content creation, client communication, teamwork, and entrepreneurship, while showing me there's still much more to learn, especially in finance and organization.
           </p>
         </ItemLayout>
 
