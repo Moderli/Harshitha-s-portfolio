@@ -37,7 +37,7 @@ export const projectsData = [
     id: 3,
     name: "Podcast circle",
     description: "A podcast platformWhile doing affiliate marketing, I learned video editing to create better content. I started posting on Instagram at night, sharing value around sales and lead gen. As my page grew, inbound leads started coming in—and that’s how freelancing began.",
-    date: "4-5-2025",
+    date: "5-5-2025",
     demoLink: "https://drive.google.com/drive/folders/1ANpxofeqJeFh5rhPRvk_FwBiuyYGR_M2",
     logo: "/logos/podcastcircle.jpeg"
   },
@@ -61,7 +61,7 @@ export const projectsData = [
     id: 6,
     name: "HustleShala",
     description: "It all started when I had this idea and teamed up with three other teens I met online—we were just four online friends trying to build something meaningful. That’s how Hustle Shala was born. We organized free career counselling workshops, ran skill-based competitions, and even created challenges where students had to team up and make real money by completing specific tasks within a set time. It was messy, exciting, and insanely hectic—late nights, 1000s of creatives, reels, PDFs, and back-to-back events, all managed by us. No mentors, no funding—just pure hustle. It was my first real experience leading a team and running actual operations. Even though we shut it down with minimal profit, the lessons it gave me in execution, teamwork, and leadership were priceless.",
-    date: "06-22-2024",
+    date: "5-22-2024",
     demoLink: "https://drive.google.com/drive/folders/1AbiFkuZ_6M_YOdES8RRj3sB1K5dwwV_p",
     logo: "/logos/hs.jpeg"
   },
