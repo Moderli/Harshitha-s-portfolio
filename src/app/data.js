@@ -21,7 +21,7 @@ export const projectsData = [
     id: 1,
     name: "Project clay",
     description: "Traditional college counselling is out of touch and expensive. Learning new skills is hard. We pair you with an elder sibling who will guide you through it.",
-    date: "2-4-2025",
+    date: "1-4-2025",
     demoLink: "https://drive.google.com/drive/folders/1A1QiJICIQ2ETamkFVbZhpC0UFh2YRGU6",
     logo: "/logos/images.jpeg"
   },
@@ -29,7 +29,7 @@ export const projectsData = [
     id: 2,
     name: "Brainopoly",
     description: "I got the chance to review the idea behind Brainopoly and shared detailed feedback along with a bunch of fresh content ideas. I helped brainstorm the overall content strategy—how to position it better, what kind of content would actually connect with the audience, and ways to make it stand out.",
-    date: "7-4-2025",
+    date: "27-4-2025",
     demoLink: "https://drive.google.com/drive/folders/1ADsVEtEdmwiHp6muQyq6taUcxvbqdBI9",
     logo: "/logos/brainopoly.jpeg"
   },
